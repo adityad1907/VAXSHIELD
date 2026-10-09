@@ -4,7 +4,7 @@
 
 [![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Prisma%20%7C%20PostgreSQL-blue)](https://github.com/adityad1907/VAXSHIELD)
 [![Test Suite](https://img.shields.io/badge/Tests-Vitest-green)](https://github.com/adityad1907/VAXSHIELD)
-[![License](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
+
 
 ---
 
